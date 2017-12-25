@@ -21,3 +21,7 @@ Mouse Click - Cast Spell
 If you get stuck, don’t forget you can equip items and upgrade skills in your inventory! Does not work well on dual monitor setups, but does still run.
 
 The game is runnable through the Executable JAR file, as well as by calling the Main method within the Game class.
+
+Download Link:
+
+https://www.dropbox.com/sh/sz7iml3j06gqm5o/AAD7akBFcdxQaTv1fLS-Jc8ia?dl=1
