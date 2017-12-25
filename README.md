@@ -23,5 +23,6 @@ If you get stuck, don’t forget you can equip items and upgrade skills in your 
 The game is runnable through the Executable JAR file, as well as by calling the Main method within the Game class.
 
 Download Link:
-
 https://www.dropbox.com/sh/sz7iml3j06gqm5o/AAD7akBFcdxQaTv1fLS-Jc8ia?dl=1
+
+(Extract the ZIP then run 'Necromancy.jar')
